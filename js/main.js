@@ -1,6 +1,5 @@
 // ========================================
 // Digital Divides Website - Main JavaScript
-// Simple vanilla JavaScript - no frameworks
 // ========================================
 
 // Mobile Menu Toggle
@@ -32,7 +31,7 @@ window.addEventListener('DOMContentLoaded', function() {
 });
 
 // ========================================
-// Chart Functions using Chart.js
+// Chart Functions
 // ========================================
 
 // Internet Connectivity by Region
